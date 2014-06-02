@@ -124,7 +124,7 @@ GtkComboBox .button {
 }
 
 .toolbar .button.image-button {
-    padding: 2px;
+    padding: 5px 4px 4px 5px;
 }
 
 .button.image-button {
@@ -132,7 +132,7 @@ GtkComboBox .button {
 }
 
 .primary-toolbar.toolbar .button.image-button {
-    padding: 2px;
+    padding: 4px 5px 5px;
 }
 
 .inline-toolbar .button.image-button {
